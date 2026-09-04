@@ -1,4 +1,4 @@
-# SkillAja-Data-Analytics
+# Skillaju-Data-Analytics
 
 **Problem:**  
   Tim manajemen Skillaju kesulitan memantau performa bisnis dan retensi belajar siswa secara terpusat karena data pendaftaran (*enrollment*), kuis, dan keterlibatan siswa masih terisolasi di berbagai tabel terpisah tanpa visualisasi yang intuitif.
@@ -16,7 +16,7 @@
 
 ## 📐 Data Architecture & Methodology
 
-Data bersumber dari platform e-learning SkillAja yang dikelola melalui Google Sheets dan ditransformasikan ke dalam **6 SQL Views** modular sebelum dihubungkan ke Looker Studio:
+Data bersumber dari platform e-learning Skillaju yang dikelola melalui Google Sheets dan ditransformasikan ke dalam **6 SQL Views** modular sebelum dihubungkan ke Looker Studio:
 
 ```text
 [ Raw Data / Google Sheets ] 
